@@ -7,6 +7,6 @@ Webpack dev server runs on port `4240`
 
 ### Run application:
 ```bash
-yarn
+yarn install
 yarn watch
 # Browser will automatically open web-page on port 4240

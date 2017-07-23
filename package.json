@@ -1,7 +1,7 @@
 {
-  "name": "website-mobile",
+  "name": "tripsorter",
   "version": "1.0.0",
-  "description": "Dreamlines website mobile frontend probject",
+  "description": "trip sorter",
   "scripts": {
     "webpack:watch": "webpack-dev-server --devtool eval --progress --content-base src",
     "server:watch": "nodemon --exec ts-node -- ./src/server.tsx",
